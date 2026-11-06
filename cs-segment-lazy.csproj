@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Optimize>true</Optimize>
+    <AssemblyName>cs-segment-lazy</AssemblyName>
+    <RootNamespace>segment_lazy</RootNamespace>
+    <Description>Lazy propagation segment tree for range updates</Description>
+    <Authors>Mahmoud ElNemer</Authors>
+    <PackageProjectUrl>https://github.com/ElNeMeR70/cs-segment-lazy</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ElNeMeR70/cs-segment-lazy</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+</Project>
